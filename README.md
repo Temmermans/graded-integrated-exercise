@@ -31,26 +31,23 @@ In this project, you will create an admin portal for "BookNest," a fictional boo
    - Utilize React Router for navigation between components.
 
 2. **State Management**:
-   - Use React context or Redux for state management across the application.
+   - Use React context for state management across the application.
    - Ensure proper state updates when performing CRUD operations.
 
-3. **Responsive Design**:
-   - Ensure the application is responsive and provides a seamless experience across different devices.
+### Additional Features
+1. Must have - **Book Search Functionality**: 
+   - Search through the names of the books
+  
+2. Nice to have - **Book Facet Search Functionality**: 
+   - Implement a search feature to find books by author, ISBN or more.
 
-### Additional Features (Nice to Haves)
-1. **Book Search Functionality**: 
-   - Implement a search feature to find books by title, author, or ISBN.
-
-2. **Nearest Store Locator**:
+3. Nice to have - **Nearest Store Locator**:
    - Include a feature to help users find the nearest BookNest store using geolocation API.
 
-3. **Book Reviews**:
+4. Nice to have - **Book Reviews**:
    - Allow users to read and submit reviews for different books.
 
-4. **Interactive Dashboard**:
-   - Develop an interactive admin dashboard that provides statistics about book sales, popular books, and user engagement.
-
-5. **Bulk Uploads**:
+5. Nice to have - **Bulk Uploads**:
    - Allow admins to upload book details in bulk through CSV file uploads.
 
 ### Submission Guidelines
